@@ -1,16 +1,8 @@
-package com.sudheendra.app;
-
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!, new world and a wonder" );
-        System.out.println( "Hello World!, new world" );
-        System.out.println("Testing CI CD");
-    }
+public class App {
+   public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.println("Hello, World");
+      System.out.println("Hello, Jenkins i came from Git hub");
+      System.out.println("Hello, Jenkins i came from Git hub again again agian");
+   }
 }
