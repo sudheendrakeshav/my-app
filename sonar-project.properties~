@@ -1,4 +1,4 @@
 sonar.projectKey=Javaproject
 sonar.projectName=Javaproject
 sonar.projectVersion=1.0
-sonar.sources=.
+sonar.sources=src
